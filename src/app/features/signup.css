@@ -1,0 +1,11 @@
+
+
+.signUpPara{
+  font-size:30px;
+  text-align:center;
+  padding-left:60px;
+}
+.signUpFooter{
+  position:static !important;
+  height:230px !important;
+}
