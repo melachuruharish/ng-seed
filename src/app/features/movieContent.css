@@ -1,0 +1,102 @@
+body{
+  margin:0px;
+  background-color:#333;
+}
+.pageNav{
+  min-height:100px;
+  border-bottom:1px solid #cccccc;
+  background-color: #cccccc;
+}
+.navHeader{
+  color: red;
+  padding-left: 30px;
+  float: left;
+}
+.browseList{
+  font-size: 20px;
+  float: left;
+  padding-top: 32px;
+  padding-left: 64px;
+  cursor:pointer;
+}
+.kidsList{
+  float: left;
+  font-size: 18px;
+  margin-top: 33px;
+  padding-left: 40px;
+  cursor:pointer;
+}
+.rightPageNav{
+  float: right;
+  padding-top: 21px;
+  padding-right: 100px;
+}
+.iconStyle{
+  position: relative;
+  top: 11px;
+  width:30px;
+}
+.searchInputStyle{
+  height: 18px;
+  margin-right: 20px;
+}
+.signOutStyle{
+  width: 67px;
+  height: 25px;
+  color: #fff;
+  background-color: red;
+}
+.anchorStyle{
+  text-decoration: none;
+  color:#f3f3f3;
+
+}
+.movieContent{
+  padding-left:132px;
+}
+.actionMovies{
+  height:360px;
+}
+.movImgStyle{
+  width: 150px;
+  height:220px;
+}
+.movieCards{
+  float: left;
+  border: 1px solid #fff;
+  padding: 10px 10px 17px 10px;
+  margin-right: 40px;
+  cursor:pointer;
+}
+.movieTitle{
+  display: block;
+  text-align:center;
+  padding-top:5px;
+  color:#fff;
+}
+.movImgStyle:hover{
+  height: 250px;
+  overflow: hidden;
+  transform:scale(1);
+}
+.clearfix{
+  clear:both;
+
+}
+.line{
+  width: 83%;
+  border: 1px solid #fff;
+}
+.adventure{
+  height:360px;
+}
+.comingSoon{
+  height:360px;
+}
+.movieFooter{
+  padding: 50px 0px 30px 100px !important;
+  color:#000000 !important;
+  background-color:#cccccc !important;
+  position:static !important;
+  height:inherit !important;
+}
